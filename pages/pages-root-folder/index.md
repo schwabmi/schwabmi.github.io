@@ -22,7 +22,7 @@ widget3:
   url: '/projects/'
   image: projects2.png
   text: 'Side projects (work and personal)'
-
+sidebar: left
 #
 # Use the call for action to show a button on the frontpage
 #
