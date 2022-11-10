@@ -9,7 +9,7 @@ header:
 permalink           : "/projects/"
 ---
 
-## BDSL
+## GiNLab
 
+<a href="https://www.germanistik-im-netz.de/ginlab/">GiNLab</a>
 
-## Fußball Vis
