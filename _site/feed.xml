@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="http://localhost:4000/feeling-responsive/assets/xslt/rss.xslt" ?>
+<?xml-stylesheet type="text/css" href="http://localhost:4000/feeling-responsive/assets/css/rss.css" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Michel Schwab</title>
+		<description>This is the personal website of Michel Schwab.</description>
+		<link>http://localhost:4000/feeling-responsive/</link>
+		<atom:link href="http://localhost:4000/feeling-responsive/feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Neues aus dem GiNLab (V)</title>
+				<link>http://localhost:4000/feeling-responsive/projects/ginlab_5/</link>
+				<pubDate>Tue, 16 Mar 2021 00:00:00 +0100</pubDate>
+				<description>&lt;p&gt;Der Blog Post handelt vom Projekt &lt;a href=&quot;https://www.germanistik-im-netz.de/forschen/&quot;&gt;GiNLab&lt;/a&gt;, an dem ich mitgearbeitet habe.
+Der Post kann auf dem &lt;a href=&quot;https://www.germanistik-im-netz.de/informieren/blog/details/ginlab-geografische-verteilung/&quot;&gt;Blog&lt;/a&gt; gelesen werden.&lt;/p&gt;
+</description>
+				<guid isPermaLink="true">http://localhost:4000/feeling-responsive/projects/ginlab_5/</guid>
+			</item>
+		
+			<item>
+				<title>Neues aus dem GiNLab (IV)</title>
+				<link>http://localhost:4000/feeling-responsive/projects/ginlab_4/</link>
+				<pubDate>Fri, 18 Dec 2020 00:00:00 +0100</pubDate>
+				<description>&lt;p&gt;Der Blog Post handelt vom Projekt &lt;a href=&quot;https://www.germanistik-im-netz.de/forschen/&quot;&gt;GiNLab&lt;/a&gt;, an dem ich mitgearbeitet habe.
+Der Post kann auf dem &lt;a href=&quot;https://www.germanistik-im-netz.de/informieren/blog/details/geschlechterverteilung-bdsl/&quot;&gt;Blog&lt;/a&gt; gelesen werden.&lt;/p&gt;
+</description>
+				<guid isPermaLink="true">http://localhost:4000/feeling-responsive/projects/ginlab_4/</guid>
+			</item>
+		
+			<item>
+				<title>Neues aus dem GiNLab (III)</title>
+				<link>http://localhost:4000/feeling-responsive/projects/ginlab_3/</link>
+				<pubDate>Fri, 02 Oct 2020 00:00:00 +0200</pubDate>
+				<description>&lt;p&gt;Der Blog Post handelt vom Projekt &lt;a href=&quot;https://www.germanistik-im-netz.de/forschen/&quot;&gt;GiNLab&lt;/a&gt;, an dem ich mitgearbeitet habe.
+Der Post kann auf dem &lt;a href=&quot;https://www.germanistik-im-netz.de/informieren/blog/details/neues-aus-dem-ginlab-iii-projektseminar-preview/&quot;&gt;Blog&lt;/a&gt; gelesen werden.&lt;/p&gt;
+</description>
+				<guid isPermaLink="true">http://localhost:4000/feeling-responsive/projects/ginlab_3/</guid>
+			</item>
+		
+			<item>
+				<title>Neues aus dem GiNLab (II)</title>
+				<link>http://localhost:4000/feeling-responsive/projects/ginlab_2/</link>
+				<pubDate>Fri, 14 Aug 2020 00:00:00 +0200</pubDate>
+				<description>&lt;p&gt;Der Blog Post handelt vom Projekt &lt;a href=&quot;https://www.germanistik-im-netz.de/forschen/&quot;&gt;GiNLab&lt;/a&gt;, an dem ich mitgearbeitet habe.
+Der Post kann auf dem &lt;a href=&quot;https://www.germanistik-im-netz.de/informieren/blog/details/neues-aus-dem-ginlab-ii-netzwerk-graphen-in-der-bdsl/&quot;&gt;Blog&lt;/a&gt; gelesen werden.&lt;/p&gt;
+</description>
+				<guid isPermaLink="true">http://localhost:4000/feeling-responsive/projects/ginlab_2/</guid>
+			</item>
+		
+			<item>
+				<title>Neues aus dem GiNLab</title>
+				<link>http://localhost:4000/feeling-responsive/projects/ginlab_1/</link>
+				<pubDate>Tue, 30 Jun 2020 00:00:00 +0200</pubDate>
+				<description>&lt;p&gt;Der Blog Post handelt vom Projekt &lt;a href=&quot;https://www.germanistik-im-netz.de/forschen/&quot;&gt;GiNLab&lt;/a&gt;, an dem ich mitgearbeitet habe.
+Der Post kann auf dem &lt;a href=&quot;https://www.germanistik-im-netz.de/informieren/blog/details/neues-aus-dem-ginlab-i-projektseminar-an-der-hu-berlin/&quot;&gt;Blog&lt;/a&gt; gelesen werden.&lt;/p&gt;
+</description>
+				<guid isPermaLink="true">http://localhost:4000/feeling-responsive/projects/ginlab_1/</guid>
+			</item>
+		
+			<item>
+				<title>Vossian Antonomasia, Next Level</title>
+				<link>http://localhost:4000/feeling-responsive/research/va-next-level/</link>
+				<pubDate>Sat, 09 Nov 2019 00:00:00 +0100</pubDate>
+				<description>&lt;p&gt;Der Blog Post handelt von unserem &lt;a href=&quot;https://doi.org/10.18653/v1/D19-1647&quot;&gt;2019 EMNLP-IJCNLP Papers&lt;/a&gt;. Der Post kann auf dem &lt;a href=&quot;https://weltliteratur.net/vossian-antonomasia-next-level&quot;&gt;Blog meiner Kollegen&lt;/a&gt; gelesen werden.&lt;/p&gt;
+</description>
+				<guid isPermaLink="true">http://localhost:4000/feeling-responsive/research/va-next-level/</guid>
+			</item>
+		
+	</channel>
+</rss>

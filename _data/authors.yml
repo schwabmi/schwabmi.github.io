@@ -1,0 +1,33 @@
+# Author details
+#
+# 1. Edit information below
+# 2. Change site author in config.yml
+# 3. Change default post/page authors in config.yml
+#
+# Resource › http://blog.sorryapp.com/blogging-with-jekyll/2014/02/06/adding-authors-to-your-jekyll-site.html
+michel # replace this with your info
+  name: "Michel Schwab"
+  siterole: "Doktorand, wissenschaftlicher Mitarbeiter"
+  email: michel.schwab@hu-berlin.de
+
+robert:
+    name: Robert Jäschke
+    display_name: Robert
+    img: /images/rj.jpg
+    email:
+    web: https://amor.cms.hu-berlin.de/~jaeschkr/
+    orcid: 0000-0003-3271-9653
+    twitter:
+    github: rjoberon
+    description: Professor at Humboldt University of Berlin.
+
+  frank:
+    name: Frank Fischer
+    display_name: Frank
+    img: /images/ff.png
+    email:
+    orcid: 0000-0003-2419-6629
+    web: https://lehkost.github.io/
+    twitter: umblaetterer
+    github: lehkost
+    description: Doing Digital Humanities at Freie Universität Berlin.

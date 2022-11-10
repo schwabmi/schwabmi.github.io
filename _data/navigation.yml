@@ -1,0 +1,19 @@
+- title: Michel Schwab
+  url: "/"
+  side: left
+
+- title: Lehre
+  url: "/teaching/"
+  side: right
+
+- title: Forschung
+  url: "/research/"
+  side: right
+
+- title: Projekte
+  url: "/projects/"
+  side: right
+
+- title: Blog
+  url: "/blog/"
+  side: right

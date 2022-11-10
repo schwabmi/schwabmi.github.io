@@ -1,0 +1,21 @@
+---
+layout: page
+sidebar: 
+subheadline: "Neues aus dem GiNLab (V): Geografische Verteilung von Hochschulschriften in der BDSL"
+subtitle: 
+author: michel #[robert, michel, frank]
+teaser: "Ein kurzer Blogeintrag zur geogrpahischen Visualisierung von Metadaten."
+breadcrumb: true
+tags:
+    - project, metadata, data exploration, data visualization, locations 
+categories:
+    - projects
+image:
+    thumb: gallery-example-3-thumb.jpg
+    title: gallery-example-3.jpg
+    caption_url: http://unsplash.com
+    
+---
+
+Der Blog Post handelt vom Projekt [GiNLab](https://www.germanistik-im-netz.de/forschen/), an dem ich mitgearbeitet habe.
+Der Post kann auf dem [Blog](https://www.germanistik-im-netz.de/informieren/blog/details/ginlab-geografische-verteilung/) gelesen werden.

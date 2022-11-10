@@ -1,0 +1,9 @@
+- name: GitHub
+  url: http://github.com/schwabmi
+  class: icon-github
+  title: Code und mehr...
+
+- name: Twitter
+  url: http://twitter.com/mchl_schwb
+  class: icon-twitter
+  title: "Immer das Neuste von Phlow gibt es auf Twitter"

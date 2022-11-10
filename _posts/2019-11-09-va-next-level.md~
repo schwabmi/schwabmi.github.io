@@ -1,0 +1,21 @@
+---
+layout: page
+sidebar: left
+subheadline: "First Automated Approaches for the Extraction of Vossian Antonomasia"
+title:  "Vossian Antonomasia, Next Level"
+subtitle: "“A Buster Keaton of Linguistics”: First Automated Approaches for the Extraction of Vossian Antonomasia"
+author: michel #[robert, michel, frank]
+teaser: "Eine Zusammenfassung unseres 2019 EMNLP-IJCNLP Papers."
+breadcrumb: true
+tags:
+    - Vossian Antonomasia, blstm, regex, neural network, classification
+categories:
+    - research
+image:
+    thumb: gallery-example-3-thumb.jpg
+    title: gallery-example-3.jpg
+    caption_url: http://unsplash.com
+    
+---
+
+Der Blog Post handelt von unserem [2019 EMNLP-IJCNLP Papers](https://doi.org/10.18653/v1/D19-1647). Der Post kann auf dem [Blog meiner Kollegen](https://weltliteratur.net/vossian-antonomasia-next-level) gelesen werden.

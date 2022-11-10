@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="/feeling-responsive/assets/xslt/atom.xslt" ?>
+<?xml-stylesheet type="text/css" href="/feeling-responsive/assets/css/atom.css" ?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<id>http://localhost:4000/feeling-responsive/</id>
+	<title>Michel Schwab</title>
+	<updated>2022-11-10T08:12:16+01:00</updated>
+
+	<subtitle>This is the personal website of Michel Schwab.</subtitle>
+
+	
+		
+		<author>
+			
+				<name>michel</name>
+			
+			
+			
+		</author>
+	
+
+	<link href="http://localhost:4000/feeling-responsive/atom.xml" rel="self" type="application/rss+xml" />
+	<link href="http://localhost:4000/feeling-responsive/" rel="alternate" type="text/html" />
+
+	<generator uri="http://jekyllrb.com" version="4.3.1">Jekyll</generator>
+
+	
+		<entry>
+			<id>http://localhost:4000/feeling-responsive/projects/ginlab_5/</id>
+			<title>Neues aus dem GiNLab (V)</title>
+			<link href="http://localhost:4000/feeling-responsive/projects/ginlab_5/" rel="alternate" type="text/html" title="Neues aus dem GiNLab (V)" />
+			<updated>2021-03-16T00:00:00+01:00</updated>
+
+			
+				
+				<author>
+					
+						<name>michel</name>
+					
+					
+					
+				</author>
+			
+			<summary>Ein kurzer Blogeintrag zur geogrpahischen Visualisierung von Metadaten.</summary>
+			<content type="html" xml:base="http://localhost:4000/feeling-responsive/projects/ginlab_5/">&lt;p&gt;Der Blog Post handelt vom Projekt &lt;a href=&quot;https://www.germanistik-im-netz.de/forschen/&quot;&gt;GiNLab&lt;/a&gt;, an dem ich mitgearbeitet habe.
+Der Post kann auf dem &lt;a href=&quot;https://www.germanistik-im-netz.de/informieren/blog/details/ginlab-geografische-verteilung/&quot;&gt;Blog&lt;/a&gt; gelesen werden.&lt;/p&gt;
+</content>
+
+			
+				<category term="projects" />
+			
+			
+				<category term="project, metadata, data exploration, data visualization, locations" />
+			
+
+			<published>2021-03-16T00:00:00+01:00</published>
+		</entry>
+	
+		<entry>
+			<id>http://localhost:4000/feeling-responsive/projects/ginlab_4/</id>
+			<title>Neues aus dem GiNLab (IV)</title>
+			<link href="http://localhost:4000/feeling-responsive/projects/ginlab_4/" rel="alternate" type="text/html" title="Neues aus dem GiNLab (IV)" />
+			<updated>2020-12-18T00:00:00+01:00</updated>
+
+			
+				
+				<author>
+					
+						<name>michel</name>
+					
+					
+					
+				</author>
+			
+			<summary>Ein kurzer Blogeintrag zur Verteilung von der Verteilung von Autorinnen in der BDSL.</summary>
+			<content type="html" xml:base="http://localhost:4000/feeling-responsive/projects/ginlab_4/">&lt;p&gt;Der Blog Post handelt vom Projekt &lt;a href=&quot;https://www.germanistik-im-netz.de/forschen/&quot;&gt;GiNLab&lt;/a&gt;, an dem ich mitgearbeitet habe.
+Der Post kann auf dem &lt;a href=&quot;https://www.germanistik-im-netz.de/informieren/blog/details/geschlechterverteilung-bdsl/&quot;&gt;Blog&lt;/a&gt; gelesen werden.&lt;/p&gt;
+</content>
+
+			
+				<category term="projects" />
+			
+			
+				<category term="project, metadata, data exploration, data visualization, gender study," />
+			
+
+			<published>2020-12-18T00:00:00+01:00</published>
+		</entry>
+	
+		<entry>
+			<id>http://localhost:4000/feeling-responsive/projects/ginlab_3/</id>
+			<title>Neues aus dem GiNLab (III)</title>
+			<link href="http://localhost:4000/feeling-responsive/projects/ginlab_3/" rel="alternate" type="text/html" title="Neues aus dem GiNLab (III)" />
+			<updated>2020-10-02T00:00:00+02:00</updated>
+
+			
+				
+				<author>
+					
+						<name>michel</name>
+					
+					
+					
+				</author>
+			
+			<summary>Ein kurzer Blogeintrag zu den Ergebnissen des Projektseminars.</summary>
+			<content type="html" xml:base="http://localhost:4000/feeling-responsive/projects/ginlab_3/">&lt;p&gt;Der Blog Post handelt vom Projekt &lt;a href=&quot;https://www.germanistik-im-netz.de/forschen/&quot;&gt;GiNLab&lt;/a&gt;, an dem ich mitgearbeitet habe.
+Der Post kann auf dem &lt;a href=&quot;https://www.germanistik-im-netz.de/informieren/blog/details/neues-aus-dem-ginlab-iii-projektseminar-preview/&quot;&gt;Blog&lt;/a&gt; gelesen werden.&lt;/p&gt;
+</content>
+
+			
+				<category term="projects" />
+			
+			
+				<category term="project, metadata, data exploration, data visualization," />
+			
+
+			<published>2020-10-02T00:00:00+02:00</published>
+		</entry>
+	
+		<entry>
+			<id>http://localhost:4000/feeling-responsive/projects/ginlab_2/</id>
+			<title>Neues aus dem GiNLab (II)</title>
+			<link href="http://localhost:4000/feeling-responsive/projects/ginlab_2/" rel="alternate" type="text/html" title="Neues aus dem GiNLab (II)" />
+			<updated>2020-08-14T00:00:00+02:00</updated>
+
+			
+				
+				<author>
+					
+						<name>michel</name>
+					
+					
+					
+				</author>
+			
+			<summary>Ein kurzer Blogeintrag zur Visualisierung von Netzwerken und der Entdeckung von Communities.</summary>
+			<content type="html" xml:base="http://localhost:4000/feeling-responsive/projects/ginlab_2/">&lt;p&gt;Der Blog Post handelt vom Projekt &lt;a href=&quot;https://www.germanistik-im-netz.de/forschen/&quot;&gt;GiNLab&lt;/a&gt;, an dem ich mitgearbeitet habe.
+Der Post kann auf dem &lt;a href=&quot;https://www.germanistik-im-netz.de/informieren/blog/details/neues-aus-dem-ginlab-ii-netzwerk-graphen-in-der-bdsl/&quot;&gt;Blog&lt;/a&gt; gelesen werden.&lt;/p&gt;
+</content>
+
+			
+				<category term="projects" />
+			
+			
+				<category term="project, metadata, data exploration, data visualization, network-analysis," />
+			
+
+			<published>2020-08-14T00:00:00+02:00</published>
+		</entry>
+	
+		<entry>
+			<id>http://localhost:4000/feeling-responsive/projects/ginlab_1/</id>
+			<title>Neues aus dem GiNLab</title>
+			<link href="http://localhost:4000/feeling-responsive/projects/ginlab_1/" rel="alternate" type="text/html" title="Neues aus dem GiNLab" />
+			<updated>2020-06-30T00:00:00+02:00</updated>
+
+			
+				
+				<author>
+					
+						<name>michel</name>
+					
+					
+					
+				</author>
+			
+			<summary>Ein kurzer Blogeintrag zu einem Projektseminar.</summary>
+			<content type="html" xml:base="http://localhost:4000/feeling-responsive/projects/ginlab_1/">&lt;p&gt;Der Blog Post handelt vom Projekt &lt;a href=&quot;https://www.germanistik-im-netz.de/forschen/&quot;&gt;GiNLab&lt;/a&gt;, an dem ich mitgearbeitet habe.
+Der Post kann auf dem &lt;a href=&quot;https://www.germanistik-im-netz.de/informieren/blog/details/neues-aus-dem-ginlab-i-projektseminar-an-der-hu-berlin/&quot;&gt;Blog&lt;/a&gt; gelesen werden.&lt;/p&gt;
+</content>
+
+			
+				<category term="projects" />
+			
+			
+				<category term="project, seminar, metadata, data exploration, data visualization" />
+			
+
+			<published>2020-06-30T00:00:00+02:00</published>
+		</entry>
+	
+		<entry>
+			<id>http://localhost:4000/feeling-responsive/research/va-next-level/</id>
+			<title>Vossian Antonomasia, Next Level</title>
+			<link href="http://localhost:4000/feeling-responsive/research/va-next-level/" rel="alternate" type="text/html" title="Vossian Antonomasia, Next Level" />
+			<updated>2019-11-09T00:00:00+01:00</updated>
+
+			
+				
+				<author>
+					
+						<name>michel</name>
+					
+					
+					
+				</author>
+			
+			<summary>Eine Zusammenfassung unseres 2019 EMNLP-IJCNLP Papers.</summary>
+			<content type="html" xml:base="http://localhost:4000/feeling-responsive/research/va-next-level/">&lt;p&gt;Der Blog Post handelt von unserem &lt;a href=&quot;https://doi.org/10.18653/v1/D19-1647&quot;&gt;2019 EMNLP-IJCNLP Papers&lt;/a&gt;. Der Post kann auf dem &lt;a href=&quot;https://weltliteratur.net/vossian-antonomasia-next-level&quot;&gt;Blog meiner Kollegen&lt;/a&gt; gelesen werden.&lt;/p&gt;
+</content>
+
+			
+				<category term="research" />
+			
+			
+				<category term="Vossian Antonomasia, blstm, regex, neural network, classification" />
+			
+
+			<published>2019-11-09T00:00:00+01:00</published>
+		</entry>
+	
+</feed>

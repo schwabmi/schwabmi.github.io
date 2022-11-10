@@ -1,0 +1,22 @@
+---
+layout: page
+sidebar: 
+subheadline: "Neues aus dem GiNLab (II): Netzwerk-Graphen in der BDSL"
+title:  "Neues aus dem GiNLab (II)"
+subtitle: 
+author: michel #[robert, michel, frank]
+teaser: "Ein kurzer Blogeintrag zur Visualisierung von Netzwerken und der Entdeckung von Communities."
+breadcrumb: true
+tags:
+    - project, metadata, data exploration, data visualization, network-analysis, 
+categories:
+    - projects
+image:
+    thumb: gallery-example-3-thumb.jpg
+    title: gallery-example-3.jpg
+    caption_url: http://unsplash.com
+    
+---
+
+Der Blog Post handelt vom Projekt [GiNLab](https://www.germanistik-im-netz.de/forschen/), an dem ich mitgearbeitet habe.
+Der Post kann auf dem [Blog](https://www.germanistik-im-netz.de/informieren/blog/details/neues-aus-dem-ginlab-ii-netzwerk-graphen-in-der-bdsl/) gelesen werden.
