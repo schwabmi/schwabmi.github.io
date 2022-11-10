@@ -5,7 +5,7 @@ title               : "Projekte"
 subheadline         : ""
 teaser              : "Projekte, die nicht direkt im Zusammenhang mit meiner Doktorarbeit stehen."
 header:
-   image_fullwidth  : "header_homepage_13.jpg"
+   image_fullwidth  : ""
 permalink           : "/projects/"
 ---
 

@@ -5,7 +5,7 @@ title               : "Lehre"
 subheadline         : ""
 teaser              : ""
 header:
-   image_fullwidth  : "header_homepage_13.jpg"
+   image_fullwidth  : ""
 permalink           : "/teaching/"
 ---
 * Wintersemester 2022/2023
