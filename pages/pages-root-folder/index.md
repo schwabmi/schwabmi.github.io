@@ -10,7 +10,7 @@ header:
 widget1:
   title: "Lehre"
   url: '/teaching/'
-  image: widget-1-302x182.jpg
+  image: teaching.png
   text: 'Lehre dies das'
 widget2:
   title: "Forschung"
