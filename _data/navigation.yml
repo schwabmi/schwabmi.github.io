@@ -2,12 +2,12 @@
   url: "/"
   side: left
 
-- title: Lehre
-  url: "/teaching/"
-  side: right
-
 - title: About Me
   url: "/about/"
+  side: right
+
+- title: Lehre
+  url: "/teaching/"
   side: right
 
 - title: Forschung
