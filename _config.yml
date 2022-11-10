@@ -12,7 +12,7 @@ title: 'Michel Schwab'
 
 # theme: 'phlow/feeling-responsive'
 # The slogan describes your website and is used on homepage in <title> and other important places
-slogan: 'A Flexible Theme for Jekyll'
+slogan: ''
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
 description: 'This is the personal website of Michel Schwab.'
@@ -31,7 +31,7 @@ baseurl: ''
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
-improve_content: https://github.com/schwabmi/schwabmi.github.io/edit/gh-pages
+improve_content: https://github.com/schwabmi.github.io/edit/gh-pages
 
 # This URL points directly to the images directory making
 # things easier to link to images in posts and templates. It needs a slash at the end.
@@ -43,7 +43,7 @@ urlimg: 'https://schwabmi.github.io/images/'
 
 
 # Logo size is 600x80 pixels
-logo: "logo.png"
+logo: 
 
 # Plugins
 plugins:
