@@ -45,7 +45,7 @@ show_meta: false
 meta_title:             # SEO: Overwrites title in <head> if needed
 meta_description:
 permalink:
-tawkto: true               # Enable tawk.to-Service › More › _config.yml
+tawkto: false               # Enable tawk.to-Service › More › _config.yml
 callforaction:
   url: 
   text: 
