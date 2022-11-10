@@ -6,6 +6,10 @@
   url: "/teaching/"
   side: right
 
+- title: About Me
+  url: "/about/"
+  side: right
+
 - title: Forschung
   url: "/research/"
   side: right
