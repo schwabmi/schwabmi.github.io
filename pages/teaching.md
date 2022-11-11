@@ -1,33 +1,32 @@
 ---
 layout              : page
 show_meta           : false
-title               : "Teaching"
+title               : "Lehre"
 subheadline         : ""
 teaser              : ""
 header:
    image_fullwidth  : ""
 permalink           : "/teaching/"
 ---
-* WS 2022/2023
+* Wintersemester 2022/2023
   - Problemorientierte Programmierung
-* SS 2022
+* Sommersemester 2022
   - Information Processing and Storage 
-* WS 2021/2022
+* Wintersemester 2021/2022
   - Problemorientierte Programmierung
-* SS 2021
+* Sommersemester 2021
   - Information Processing and Storage 
-* WS 2020/2021
+* Wintersemester 2020/2021
   - Problemorientierte Programmierung
-* SS 2020
-  - Proektseminar: Exploration für FID Germanistik: Exploration und Visualisierung von Metadaten
+* Sommersemester 2020
+  - Proektseminar: Exploration und Visualisierung von Metadaten
+* Wintersemester 2019/2020
+  - Problemorientierte Programmierung
+* Sommersemester 2019
   - Knowledge Discovery in Databases
-* WS 2019/2020
+* Wintersemester 2018/2019
   - Problemorientierte Programmierung
-* SS 2019
-  - Knowledge Discovery in Databases
-* WS 2018/2019
-  - Problemorientierte Programmierung
-* SS 2018
+* Sommersemester 2018
   - Knowledge Discovery in Databases
 
 

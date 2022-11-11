@@ -8,17 +8,17 @@ layout: frontpage
 header:
   image_fullwidth:
 widget1:
-  title: "teaching"
+  title: "Lehre"
   url: '/teaching/'
   image: teaching.png
-  text: 'All courses of my teaching at Humboldt-Universität zu Berlin.'
+  text: 'Lehre dies das'
 widget2:
-  title: "research"
+  title: "Forschung"
   url: '/research/'
-  text: 'All about my PhD'
+  text: 'Alles über Vossianische Antonomasien'
   image: research.png
 widget3:
-  title: "projects"
+  title: "Projekte"
   url: '/projects/'
   image: projects2.png
   text: 'Side projects (work and personal)'

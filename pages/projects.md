@@ -1,9 +1,9 @@
 ---
 layout              : page
 show_meta           : false
-title               : "Projects"
+title               : "Projekte"
 subheadline         : ""
-teaser              : "Side projects"
+teaser              : "Projekte, die nicht direkt im Zusammenhang mit meiner Doktorarbeit stehen."
 header:
    image_fullwidth  : ""
 permalink           : "/projects/"
