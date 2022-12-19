@@ -9,8 +9,9 @@ header:
 permalink           : "/research/"
 ---
 
-## Vossian Antonomasia
+## Topics
 
+### Vossian Antonomasia
 My PhD is about the automatic detection, extraction and analysis of the stylistic device "Vossian Antonomasia". Together with Robert Jäschke und Frank Fischer, we publish our work on <a href="https://vossanto.weltliteratur.net/">my colleagues' blog</a>.
 
 Code and data to the project can be found on our [github repo](https://github.com/weltliteratur/vossanto).
