@@ -13,7 +13,8 @@ image:
     thumb: gallery-example-3-thumb.jpg
     title: gallery-example-3.jpg
     caption_url: http://unsplash.com
-    
+date: 2022-11-23
+
 ---
 
 Der Blog Post handelt von unserem [2022 Frontiers in AI Papers](https://doi.org/10.3389/frai.2022.868249). Der Post kann auf dem [Blog meiner Kollegen](https://weltliteratur.net/vossian-antonomasia-extraction/) gelesen werden.
