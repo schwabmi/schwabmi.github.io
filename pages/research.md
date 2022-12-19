@@ -36,7 +36,7 @@ Schwab, M., Jäschke, R., Fischer, F., Strötgen, J.: ‘A Buster Keaton of Ling
 
 ## Talks, Presentations and Posters
 
-<small>2022-09-02 · ICNLSP 2022, online ([5th International Conference on Natural Language and Speech Processing](https://www.icnlsp.org/2022welcome/)</small><br />
+<small>2022-12-17 · ICNLSP 2022, online ([5th International Conference on Natural Language and Speech Processing](https://www.icnlsp.org/2022welcome/)</small><br />
 [»Der Frank Sinatra der Wettervorhersage« – Cross-Lingual Vossian Antonomasia Extraction](https://schwabmi.github.io/presentations/2022-12-17-icnlsp/
 )
 
