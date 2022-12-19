@@ -16,13 +16,31 @@ My PhD is about the automatic detection, extraction and analysis of the stylisti
 Code and data to the project can be found on our [github repo](https://github.com/weltliteratur/vossanto).
 
 
-### Publications:
+## Publications
 
+
+#### Dhd2023
+Schwab M., Fischer F.: »Die Greta Garbo der Leichtathletik«. Eine systematische Analyse der Modifier vossianischer Antonomasien mithilfe von Word Embeddings. In: DHd2023: »Open Humanities, Open Culture«. 13–17 March 2023. Book of Abstracts. University of Trier. (accepted, coming soon)
+
+#### ICNLSP (2022)
+Schwab, M., Jäschke, R., Fischer, F.: »Der Frank Sinatra der Wettervorhersage« – Cross-Lingual Vossian Antonomasia Extraction. Proceedings of the 5th International Conference on Natural Language and Speech Processing. Association for Computational Linguistics 2022. (in print)
 
 #### Frontiers in Artificial Intelligence (2022)
-
-Schwab, M., Jäschke, R., Fischer, F.: “The Rodney Dangerfield of Stylistic Devices”: End-to-End Detection and Extraction of Vossian Antonomasia Using Neural Networks. (DOI:<a href="https://doi.org/10.3389/frai.2022.868249">10.3389/frai.2022.868249</a>, <a href="https://www.frontiersin.org/articles/10.3389/frai.2022.868249/abstract">PDF</a>, <a href="https://www.bibsonomy.org/bib/publication/2ec528a4b293f3ddc9582fcdeed6c6f9/jaeschke">BibTeX</a>)
+Schwab, M., Jäschke, R., Fischer, F.: “The Rodney Dangerfield of Stylistic Devices”: End-to-End Detection and Extraction of Vossian Antonomasia Using Neural Networks. (DOI:<a href="https://doi.org/10.3389/frai.2022.868249">10.3389/frai.2022.868249</a>)
 
 
 #### EMNLP-IJCNLP 2019 (November, 2019)
-Schwab, M., Jäschke, R., Fischer, F., Strötgen, J.: ‘A Buster Keaton of Linguistics’: First Automated Approaches for the Extraction of Vossian Antonomasia. <em>Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing</em>. pp. 6239–6244. Association for Computational Linguistics 2019. (DOI:<a href="https://doi.org/10.18653/v1/D19-1647">10.18653/v1/D19-1647</a>, <a href="https://www.aclweb.org/anthology/D19-1647.pdf">PDF</a>, <a href="https://www.bibsonomy.org/bib/bibtex/25d30fd8911ded13edd4c0f07bd73e624/jaeschke">BibTeX</a>, <a href="https://doi.org/10.6084/m9.figshare.10069886">Poster</a>)
+Schwab, M., Jäschke, R., Fischer, F., Strötgen, J.: ‘A Buster Keaton of Linguistics’: First Automated Approaches for the Extraction of Vossian Antonomasia. <em>Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing</em>. pp. 6239–6244. Association for Computational Linguistics 2019. (DOI:<a href="https://doi.org/10.18653/v1/D19-1647">10.18653/v1/D19-1647</a>)
+
+
+## Talks, Presentations and Posters
+
+<small>2022-09-02 · ICNLSP 2022, online ([5th International Conference on Natural Language and Speech Processing](https://www.icnlsp.org/2022welcome/)</small><br />
+[»Der Frank Sinatra der Wettervorhersage« – Cross-Lingual Vossian Antonomasia Extraction](https://schwabmi.github.io/presentations/2022-12-17-icnlsp/
+)
+
+<small>2019-11-07 · EMNLP-IJCNLP 2019, Hong Kong ([2019 Conference on Empirical Methods in Natural Language Processing and 9th International Joint Conference on Natural Language Processing](https://2019.emnlp.org/)</small><br />
+[»A Buster Keaton of Linguistics«: First Automated Approaches for the Extraction of Vossian Antonomasia](https://figshare.com/articles/poster/_A_Buster_Keaton_of_Linguistics_First_Automated_Approaches_for_the_Extraction_of_Vossian_Antonomasia/10069886)
+
+
+
