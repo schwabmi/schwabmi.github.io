@@ -21,10 +21,10 @@ Code and data to the project can be found on our [github repo](https://github.co
 
 
 #### Dhd2023
-Schwab M., Fischer F.: »Die Greta Garbo der Leichtathletik«. Eine systematische Analyse der Modifier vossianischer Antonomasien mithilfe von Word Embeddings. In: DHd2023: »Open Humanities, Open Culture«. 13–17 March 2023. Book of Abstracts. University of Trier. (accepted, coming soon)
+Schwab M., Fischer F.: »Die Greta Garbo der Leichtathletik«. Eine systematische Analyse der Modifier vossianischer Antonomasien mithilfe von Word Embeddings. In: DHd2023: »Open Humanities, Open Culture«. 13–17 March 2023. Book of Abstracts. University of Trier. (DOI:<a href="https://doi.org/10.5281/zenodo.7715490">10.5281/zenodo.7715490</a>)
 
 #### ICNLSP (2022)
-Schwab, M., Jäschke, R., Fischer, F.: »Der Frank Sinatra der Wettervorhersage« – Cross-Lingual Vossian Antonomasia Extraction. Proceedings of the 5th International Conference on Natural Language and Speech Processing. Association for Computational Linguistics 2022. (in print)
+Schwab, M., Jäschke, R., Fischer, F.: »Der Frank Sinatra der Wettervorhersage« – Cross-Lingual Vossian Antonomasia Extraction. Proceedings of the 5th International Conference on Natural Language and Speech Processing. Association for Computational Linguistics 2022. (PDF:<a href="https://aclanthology.org/2022.icnlsp-1.33.pdf">2022.icnlsp-1.33</a>)
 
 #### Frontiers in Artificial Intelligence (2022)
 Schwab, M., Jäschke, R., Fischer, F.: “The Rodney Dangerfield of Stylistic Devices”: End-to-End Detection and Extraction of Vossian Antonomasia Using Neural Networks. (DOI:<a href="https://doi.org/10.3389/frai.2022.868249">10.3389/frai.2022.868249</a>)
