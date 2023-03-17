@@ -35,9 +35,10 @@ Schwab, M., Jäschke, R., Fischer, F., Strötgen, J.: ‘A Buster Keaton of Ling
 
 ## Talks, Presentations and Posters
 
-<small>2022-12-17 · ICNLSP 2022, online ([5th International Conference on Natural Language and Speech Processing](https://www.icnlsp.org/2022welcome/)</small><br />
-[»Der Frank Sinatra der Wettervorhersage« – Cross-Lingual Vossian Antonomasia Extraction](https://schwabmi.github.io/presentations/2022-12-17-icnlsp/
-)
+<small>2023-03-17 · Dhd 2023 ([Digital Humanities im deutschsprachigen Raum 2023](https://www.icnlsp.org/2022welcome/)</small><br />
+[»Der Frank Sinatra der Wettervorhersage« – Cross-Lingual Vossian Antonomasia Extraction](https://lehkost.github.io/slides/2023-03-17-trier-dhd/)
+
+<small>2022-12-17 · ICNLSP 2022, online ([5th International Conference on Natural Language and Speech Processing](https://www.icnlsp.org/2022welcome/)</small><br />[Der Frank Sinatra der Wettervorhersage« – Cross-Lingual Vossian Antonomasia Extraction](https://schwabmi.github.io/presentations/2022-12-17-icnlsp/)
 
 <small>2019-11-07 · EMNLP-IJCNLP 2019, Hong Kong ([2019 Conference on Empirical Methods in Natural Language Processing and 9th International Joint Conference on Natural Language Processing](https://2019.emnlp.org/)</small><br />
 [»A Buster Keaton of Linguistics«: First Automated Approaches for the Extraction of Vossian Antonomasia](https://figshare.com/articles/poster/_A_Buster_Keaton_of_Linguistics_First_Automated_Approaches_for_the_Extraction_of_Vossian_Antonomasia/10069886)
