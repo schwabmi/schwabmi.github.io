@@ -57,7 +57,7 @@ const node = svg.selectAll("g")
 
 const circles = node.append("circle")
     .attr("r", 5)
-    .attr("fill", "none");
+    .attr("fill", "blue");
 
 const labels = node.append("text")
     .text((d) => d.label)
