@@ -64,7 +64,7 @@ const labels = node.append("text")
     .attr("text-anchor", "middle")
     .attr("dy", 3)
     .attr("font-size", "13px")
-    .attr("fill", "#5A5A5A")
+    .attr("fill", "#fff")
     .style("font-family", "Roboto");
 
 
