@@ -46,6 +46,10 @@
   padding-bottom: 4rem;
   background-color: var(--content-bg-color); /* Add this line to set the background color */
 }
+
+.page{
+  padding-top: 2rem
+}
 /*
  * Global resets
  *
