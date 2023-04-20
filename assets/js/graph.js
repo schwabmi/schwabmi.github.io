@@ -93,7 +93,7 @@ function updateNodePositions(nodes, width, height, speed, padding) {
     });
 }
 
-svg.on("mousemove", onMouseMove);
+d3.select(".sidebar").on("mousemove", onMouseMove);
 
 function onMouseMove(event) {
     const mouseX = event.clientX - sidebar.getBoundingClientRect().left;
