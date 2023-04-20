@@ -11,5 +11,5 @@ permalink           : "/projects/"
 
 
 
-<a href="https://www.germanistik-im-netz.de/ginlab/"><h2>GiNLab</h2></a>
+<h2><a href="https://www.germanistik-im-netz.de/ginlab/">GiNLab</a></h2>
 
