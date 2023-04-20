@@ -2,7 +2,7 @@
     <div id="interactive-background"></div>
     <div class="container sidebar-sticky">
         <div class="sidebar-about">
-            <img src="/images/profile.jpg" alt="portrait pic"
+            <img src="{{ '/images/profile.jpg' | relative_url }}" alt="portrait pic"
                  style="max-width: 60%; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); display:block; margin-left: auto; margin-right: auto;"/>
             <h2 style="text-align:center;">
                 <a href="/">
@@ -30,7 +30,8 @@
             {% assign path_array = node.path | split: '/' %}
             {% if path_array[0] == 'pages' %}
             <a style="text-align:center;" class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}"
-               href="{{ node.url }}">{{ node.title }}</a>
+               href="{{ node.url | relative_url }}">{{ node.title }}</a>
+
             {% endif %}
             {% endif %}
             {% endif %}
