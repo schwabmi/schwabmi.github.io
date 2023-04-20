@@ -57,14 +57,14 @@ const node = svg.selectAll("g")
 
 const circles = node.append("circle")
     .attr("r", 5)
-    .attr("fill", "blue");
+    .attr("fill", "none");
 
 const labels = node.append("text")
     .text((d) => d.label)
     .attr("text-anchor", "middle")
     .attr("dy", 3)
-    .attr("font-size", "12px")
-    .attr("fill", "grey")
+    .attr("font-size", "13px")
+    .attr("fill", "#5A5A5A")
     .style("font-family", "Roboto");
 
 
@@ -93,33 +93,33 @@ function updateNodePositions(nodes, width, height, speed, padding) {
     });
 }
 
-d3.select(".sidebar").on("mousemove", onMouseMove);
-
-function onMouseMove(event) {
-    const mouseX = event.clientX - sidebar.getBoundingClientRect().left;
-    const mouseY = event.clientY - sidebar.getBoundingClientRect().top;
-
-    data.nodes.forEach((node) => {
-        const dx = node.x - mouseX;
-        const dy = node.y - mouseY;
-        const distance = Math.sqrt(dx * dx + dy * dy);
-
-        if (distance < 300) {
-            const repulsionForce =300 - distance;
-            node.x += (dx / distance) * repulsionForce * 0.1;
-            node.y += (dy / distance) * repulsionForce * 0.1;
-
-            node.x = Math.max(padding, Math.min(sidebarWidth - padding, node.x));
-            node.y = Math.max(padding, Math.min(sidebarHeight - padding, node.y));
-        }
-    });
-
-    circles.attr("cx", (d) => d.x)
-        .attr("cy", (d) => d.y);
-
-    labels.attr("x", (d) => d.x)
-        .attr("y", (d) => d.y);
-}
+// d3.select(".sidebar").on("mousemove", onMouseMove);
+//
+// function onMouseMove(event) {
+//     const mouseX = event.clientX - sidebar.getBoundingClientRect().left;
+//     const mouseY = event.clientY - sidebar.getBoundingClientRect().top;
+//
+//     data.nodes.forEach((node) => {
+//         const dx = node.x - mouseX;
+//         const dy = node.y - mouseY;
+//         const distance = Math.sqrt(dx * dx + dy * dy);
+//
+//         if (distance < 300) {
+//             const repulsionForce =300 - distance;
+//             node.x += (dx / distance) * repulsionForce * 0.1;
+//             node.y += (dy / distance) * repulsionForce * 0.1;
+//
+//             node.x = Math.max(padding, Math.min(sidebarWidth - padding, node.x));
+//             node.y = Math.max(padding, Math.min(sidebarHeight - padding, node.y));
+//         }
+//     });
+//
+//     circles.attr("cx", (d) => d.x)
+//         .attr("cy", (d) => d.y);
+//
+//     labels.attr("x", (d) => d.x)
+//         .attr("y", (d) => d.y);
+// }
 
 
 
