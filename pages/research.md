@@ -77,7 +77,7 @@ Schwab, M., Jäschke, R., Fischer, F., Strötgen, J.: ‘A Buster Keaton of Ling
 <h3>Data</h3>
 <br/>
 <p>
-<a href="https://github.com/weltliteratur/vossanto/blob/master/frontiers/data.tsv">English annotated VA Dataset</a> 
+<a href="https://github.com/weltliteratur/vossanto/blob/master/frontiers2022/data.tsv">English annotated VA Dataset</a> 
 </p>
 
 <p>
