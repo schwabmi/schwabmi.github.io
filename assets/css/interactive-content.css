@@ -1,0 +1,105 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+/*.icon-container {
+  display: flex;
+  justify-content: center;
+  gap: 16px;
+}*/
+
+.icon-container {
+    display: flex;
+    justify-content: space-around; /* Change this to 'space-around' for even spacing */
+    flex-wrap: wrap; /* Add this line to allow wrapping to the next row */
+    width: 100%; /* Add this line to make the container take up the full width of the page */
+    gap: 16px;
+}
+
+.icon {
+    background-color: #f0f0f0;
+    padding: 1.5rem;
+    border-radius: 5px;
+    text-align: center;
+    cursor: pointer;
+    user-select: none;
+    width: 80px;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s;
+}
+
+.icon:hover {
+    background-color: #e0e0e0;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    transform: translateY(-5px);
+}
+
+.content {
+    margin-top: 2rem;
+    padding: 1rem;
+    width: 100%;
+    /*border: 1px solid #ccc;*/
+}
+
+#content{
+    margin-left: 0rem;
+}
+
+.icon.active {
+    background-color: #e0e0e0;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+
+.icon-container .icon.active {
+    background-color: #d0d0d0;
+}
+
+.icon-container .icon:hover {
+    background-color: #e0e0e0;
+}
+
+.icon-container .icon span {
+    margin-left: 8px;
+}
+
+
+/*.icon-container .icon {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 150px;
+  height: 120px;
+  background-color: #f0f0f0;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 18px;
+  transition: background-color 0.3s;
+}*/
+
+.icon-container .icon {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: calc(33.33% - 16px); /* Change the width to a percentage value minus the gap size */
+    height: 120px;
+    background-color: #f0f0f0;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 18px;
+    transition: background-color 0.3s;
+}
+
+
+
+.icon-container .icon i {
+    margin-bottom: 8px; /* Add this line to create space between the icon and text */
+}

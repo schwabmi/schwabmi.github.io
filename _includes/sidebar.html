@@ -1,0 +1,48 @@
+<div class="sidebar">
+    <div id="interactive-background"></div>
+    <div class="container sidebar-sticky">
+        <div class="sidebar-about">
+            <img src="/images/profile.jpg" alt="portrait pic"
+                 style="max-width: 60%; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); display:block; margin-left: auto; margin-right: auto;"/>
+            <h2 style="text-align:center;">
+                <a href="/">
+                    {{ site.title }}
+                </a>
+            </h2>
+            <!--      <p class="lead">{{ site.description }}</p>-->
+
+
+        </div>
+
+        <nav class="sidebar-nav">
+            <!--      <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Home</a>-->
+
+            {% comment %}
+            The code below dynamically generates a sidebar nav of pages with
+            `layout: page` in the front-matter, and only includes files in the "pages" directory.
+            See readme for usage.
+            {% endcomment %}
+
+            {% assign pages_list = site.pages %}
+            {% for node in pages_list %}
+            {% if node.title != null %}
+            {% if node.layout == "page" %}
+            {% assign path_array = node.path | split: '/' %}
+            {% if path_array[0] == 'pages' %}
+            <a style="text-align:center;" class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}"
+               href="{{ node.url }}">{{ node.title }}</a>
+            {% endif %}
+            {% endif %}
+            {% endif %}
+            {% endfor %}
+
+
+            <!--      <a class="sidebar-nav-item" href="{{ site.github.repo }}/archive/v{{ site.version }}.zip">Download</a>-->
+            <!--      <a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub project</a>-->
+            <br>
+            <span style="text-align:center;" class="sidebar-nav-item">Last update: 19 Apr 2023</span>
+        </nav>
+        <p style="text-align:center;">GitHub: <a href="https://github.com/schwabmi//">schwabmi</a></p>
+        <p style="text-align:center;">Theme: <a href="https://hyde.getpoole.com/">Hyde</a></p>
+    </div>
+</div>

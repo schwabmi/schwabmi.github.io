@@ -1,0 +1,21 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Michel Schwab
+tagline:          'Phd student at Humoldt-Universität zu Berlin'
+description:      'Personal Homepage'
+url:              'https://schwabmi.github.io'
+baseurl:          '/hyde'
+
+
+plugins:
+- jekyll-gist
+- jekyll-paginate
+- jekyll-asciidoc
+
+google_fonts: "Roboto:300,400,500,700"
