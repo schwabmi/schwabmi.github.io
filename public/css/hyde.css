@@ -27,6 +27,10 @@
  * Themes
  */
 
+:root {
+  --primary-color: #1a1a1a;
+  --accent-color: #ff9800; /* Change this value to your desired accent color */
+}
 
 /*
  * Global resets
@@ -98,14 +102,26 @@ h1, h2, h3, h4, h5, h6 {
 .sidebar-nav-item {
   display: block;
   line-height: 1.75;
+  border: 1px solid var(--accent-color);
+  border-radius: 4px;
+  padding: 8px 16px;
+  transition: background-color 0.3s ease;
 }
-a.sidebar-nav-item:hover,
-a.sidebar-nav-item:focus {
-  text-decoration: underline;
+
+
+.sidebar-nav-item:hover,
+.sidebar-nav-item:focus {
+  background-color: var(--accent-color);
+  color: #fff;
+  text-decoration: none;
 }
+
 .sidebar-nav-item.active {
   font-weight: bold;
+  background-color: var(--accent-color);
+  color: #fff;
 }
+
 
 /* Sticky sidebar
  *
