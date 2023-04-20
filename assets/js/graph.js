@@ -47,7 +47,7 @@ const svg = d3.select(".sidebar")
     .style("position", "absolute")
     .style("top", "0")
     .style("left", "0")
-    .style("z-index", "1000");
+    .style("z-index", "-1");
 
 
 const node = svg.selectAll("g")
