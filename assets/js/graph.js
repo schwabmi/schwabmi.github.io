@@ -1,6 +1,6 @@
 const sidebar = document.querySelector('.sidebar');
 const sidebarWidth = sidebar.clientWidth -20;
-const sidebarHeight = sidebar.clientHeight / 2;
+const sidebarHeight = sidebar.clientHeight;
 
 
 
