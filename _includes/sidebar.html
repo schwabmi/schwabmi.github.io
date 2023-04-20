@@ -36,17 +36,18 @@
 <!--            {% endif %}-->
 <!--            {% endif %}-->
 <!--            {% endfor %}-->
-            <a style="text-align:center;" class="sidebar-nav-item{% if page.url == '/pages/about.md' %} active{% endif %}"
-               href="/pages/about.md">About Me</a>
+            <a style="text-align:center;" class="sidebar-nav-item{% if page.url == '/pages/about.html' %} active{% endif %}"
+               href="{{ '/pages/about.html' | relative_url }}">About Me</a>
 
-            <a style="text-align:center;" class="sidebar-nav-item{% if page.url == '/pages/research.md' %} active{% endif %}"
-               href="{{ '/pages/research.md' | relative_url }}">Research</a>
+            <a style="text-align:center;" class="sidebar-nav-item{% if page.url == '/pages/research.html' %} active{% endif %}"
+               href="{{ '/pages/research.html' | relative_url }}">Research</a>
 
-            <a style="text-align:center;" class="sidebar-nav-item{% if page.url == '/pages/teaching.md' %} active{% endif %}"
-               href="{{ '/pages/teaching.md' | relative_url }}">Teaching</a>
+            <a style="text-align:center;" class="sidebar-nav-item{% if page.url == '/pages/teaching.html' %} active{% endif %}"
+               href="{{ '/pages/teaching.html' | relative_url }}">Teaching</a>
 
-            <a style="text-align:center;" class="sidebar-nav-item{% if page.url == '/pages/project.md' %} active{% endif %}"
-               href="{{ '/pages/project.md' | relative_url }}">Side Projects</a>
+            <a style="text-align:center;" class="sidebar-nav-item{% if page.url == '/pages/project.html' %} active{% endif %}"
+               href="{{ '/pages/project.html' | relative_url }}">Side Projects</a>
+
 
             <!--      <a class="sidebar-nav-item" href="{{ site.github.repo }}/archive/v{{ site.version }}.zip">Download</a>-->
             <!--      <a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub project</a>-->
