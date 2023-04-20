@@ -93,6 +93,34 @@ function updateNodePositions(nodes, width, height, speed, padding) {
     });
 }
 
+svg.on("mousemove", onMouseMove);
+
+function onMouseMove(event) {
+    const mouseX = event.clientX - sidebar.getBoundingClientRect().left;
+    const mouseY = event.clientY - sidebar.getBoundingClientRect().top;
+
+    data.nodes.forEach((node) => {
+        const dx = node.x - mouseX;
+        const dy = node.y - mouseY;
+        const distance = Math.sqrt(dx * dx + dy * dy);
+
+        if (distance < 100) {
+            const repulsionForce = 100 - distance;
+            node.x += (dx / distance) * repulsionForce * 0.1;
+            node.y += (dy / distance) * repulsionForce * 0.1;
+
+            node.x = Math.max(padding, Math.min(sidebarWidth - padding, node.x));
+            node.y = Math.max(padding, Math.min(sidebarHeight - padding, node.y));
+        }
+    });
+
+    circles.attr("cx", (d) => d.x)
+        .attr("cy", (d) => d.y);
+
+    labels.attr("x", (d) => d.x)
+        .attr("y", (d) => d.y);
+}
+
 
 
 function animateNodes() {
