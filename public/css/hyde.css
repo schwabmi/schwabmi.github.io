@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap');
 
 /*
  *  __                  __
@@ -36,6 +37,11 @@
 html {
   font-family: 'Roboto', Helvetica, Arial, sans-serif;
 }
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+
 @media (min-width: 48em) {
   html {
     font-size: 16px;
@@ -57,7 +63,7 @@ html {
 
 .sidebar {
   text-align: center;
-  padding: 2rem 1rem;
+  padding: 2.5rem 1.5rem;
   color: rgba(255,255,255,.5);
   background-color: #202020;
 }
@@ -124,8 +130,8 @@ a.sidebar-nav-item:focus {
  */
 
 .content {
-  padding-top:    4rem;
-  padding-bottom: 4rem;
+  padding-top:    4.5rem;
+  padding-bottom: 4.5rem;
 }
 
 @media (min-width: 48em) {
