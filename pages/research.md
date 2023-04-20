@@ -20,7 +20,7 @@ You can find the code and data related to the project on our [GitHub repository]
   <div class="icon" id="talks"><i class="fas fa-microphone"></i> <span>Talks</span></div>
   <div class="icon" id="code"><i class="fas fa-code"></i> <span>Code - Data - Visualizations</span></div>
 </div>
-<div class="content" id="content">
+<div id="interactive-content">
   <!-- Content will be loaded here -->
 </div>
 

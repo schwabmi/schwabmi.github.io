@@ -1,4 +1,4 @@
-const contentElement = document.getElementById("content");
+const contentElement = document.getElementById("interactive-content");
 
 const icons = document.querySelectorAll(".icon");
 
