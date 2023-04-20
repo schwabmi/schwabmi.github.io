@@ -104,8 +104,8 @@ function onMouseMove(event) {
         const dy = node.y - mouseY;
         const distance = Math.sqrt(dx * dx + dy * dy);
 
-        if (distance < 100) {
-            const repulsionForce = 100 - distance;
+        if (distance < 300) {
+            const repulsionForce =300 - distance;
             node.x += (dx / distance) * repulsionForce * 0.1;
             node.y += (dy / distance) * repulsionForce * 0.1;
 
