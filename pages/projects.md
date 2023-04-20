@@ -9,7 +9,7 @@ header:
 permalink           : "/projects/"
 ---
 
-## GiNLab
 
-<a href="https://www.germanistik-im-netz.de/ginlab/">GiNLab</a>
+
+<a href="https://www.germanistik-im-netz.de/ginlab/"><h2>GiNLab</h2></a>
 
