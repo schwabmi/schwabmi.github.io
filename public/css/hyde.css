@@ -40,9 +40,14 @@
 
 html {
   font-family: 'Roboto', Helvetica, Arial, sans-serif;
+  font-size: 18px;
+  line-height: 1.6;
 }
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Montserrat', sans-serif;
+  margin-top: 1.5em;
+  margin-bottom: 1em;
+  letter-spacing: -0.025em;
 }
 
 
@@ -102,7 +107,6 @@ h1, h2, h3, h4, h5, h6 {
 .sidebar-nav-item {
   display: block;
   line-height: 1.75;
-  border: 1px solid var(--accent-color);
   border-radius: 4px;
   padding: 8px 16px;
   transition: background-color 0.3s ease;
@@ -120,6 +124,11 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: bold;
   background-color: var(--accent-color);
   color: #fff;
+}
+
+.sidebar-nav-item {
+  /* Add the transition property */
+  transition: background-color 0.3s ease, color 0.3s ease;
 }
 
 
