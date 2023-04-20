@@ -110,6 +110,10 @@ h1, h2, h3, h4, h5, h6 {
   color: #5A5A5A;
 }
 
+.sidebar  a {
+  color: #5A5A5A;
+}
+
 /* About section */
 .sidebar-about h1 {
   color: #fff;
